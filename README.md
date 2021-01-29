@@ -28,3 +28,5 @@ g)What is the proportion of each sector in FDI?
 h)Are there some specific clusters that are present here?
 
 i)What is the forecast for next year?
+
+You can view FDI-Case Study Dashboard on my Tableau Public Profile link-https://public.tableau.com/profile/borugadda.manoj#!/
